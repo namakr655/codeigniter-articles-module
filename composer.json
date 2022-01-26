@@ -1,0 +1,13 @@
+{
+    "name": "namakr655/codeigniter-articles-module",
+	"type": "library",
+    "description": "Articles Module for CI4",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Modules\\Articles\\": "src/"
+        }
+    },
+	"minimum-stability": "dev",
+    "require": {}
+}
